@@ -28,7 +28,7 @@ If you have any feedback or suggestions for improvement, feel free to open an is
 
 ### Contact
 
-If you have any questions or issues, please contact the repository owner.
+If you have any questions or issues, please contact with me through my email.
 
 ### License
 
